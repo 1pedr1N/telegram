@@ -1,5 +1,8 @@
 {
   "name": "telegram",
+  "engines": {
+    "node": "16.x"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
